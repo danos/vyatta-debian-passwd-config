@@ -1,0 +1,2 @@
+# we provide it via a symlink
+vyatta-debian-passwd-config: diversion-for-unknown-file

@@ -1,0 +1,5 @@
+vyatta-debian-passwd-config (1.2) unstable; urgency=medium
+
+  * DANOS Import master
+
+ -- Vyatta Package Maintainers <DL-vyatta-help@att.com>  Tue, 12 Nov 2019 20:13:12 +0000
